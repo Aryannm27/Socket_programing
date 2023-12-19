@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649658657 source:c:\users\dhruhi\desktop\dhruhi\socket programming\socket client\main.c
+	<winsock2.h>
+	<stdio.h>
+
+1674551722 source:c:\users\dhruhi\dhruhi\c projects & docs\c projects (dhruhi)\socket programming\socket client\main.c
+	<winsock2.h>
+	<stdio.h>
+

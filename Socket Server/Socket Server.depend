@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649505634 source:c:\users\dhruhi\desktop\dhruhi\socket programming\socket server\main.c
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+
+1649505634 source:c:\users\dhruhi\dhruhi\c projects & docs\c projects (dhruhi)\socket programming\socket server\main.c
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+
